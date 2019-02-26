@@ -1,0 +1,19 @@
+
+/**
+*  \mainpage Workshop Simulator
+*
+* This is the documentation for the CSE 335 Workshop Simulator.
+* This describes the function calls necessary to utilize the
+* simulator. The Workshop Simulator is a graphical representation
+* of a workshop at an undisclosed location run by a secret 
+* corporation that delivers toys to children on an annual basis.
+* Support is provided for motor control, position sensing, and
+* button support.
+*
+* See the documentation for the classes CWorkshopController and 
+* CWorkshopWnd. CWorkshopController is the class users use for 
+* controlling the workshop. CWorkshopWnd provides additional functions
+* that are useful for testing purposes.
+*
+* This documentation is generated from sources using Doxygen.
+*/
